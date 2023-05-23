@@ -13,4 +13,5 @@
 //  - définir les variable d'environnement dedans
 //  - lister dans le fichier .gitignore tous les fichiers à ignorer lors de l'envoi à GitHub : .env / node_modules / package-lock.json
 
-// - SEULEMENT ENSUITE, envoyer le code sur GitHub
+// - SEULEMENT ENSUITE, envoyer le code sur GitHub, mais pour cela, il faut créer un repository (répertoire)
+// - suivre les instructions, en remplacant `git add README.md` par `git add .`
